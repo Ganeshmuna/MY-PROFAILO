@@ -427,7 +427,7 @@
   <section id="about" aria-labelledby="about-heading" tabindex="0">
     <h2 id="about-heading">About Me</h2>
     <div class="about-flex">
-      <img src="my-one.jpg" alt="Photograph of Lakshmi Siva Ganesh, Creator" class="profile-photo" width="180" height="180" onerror="this.onerror=null;this.src='https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/bb840837-053a-458b-a596-e5c7b8d72318.png';" />
+      <img src="index.jpg" alt="Photograph of Lakshmi Siva Ganesh, Creator" class="profile-photo" width="180" height="180" onerror="this.onerror=null;this.src='https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/bb840837-053a-458b-a596-e5c7b8d72318.png';" />
       <div class="about-text">
         <h3>Founder & Creator</h3>
         <p>Hello! I'm Lakshmi Siva Ganesh, a passionate developer and creator specializing in interactive web experiences. I craft elegant, modern websites tailored to deliver engaging online presences. Welcome to my portfolio and interactive resume!</p>
